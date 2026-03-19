@@ -9,6 +9,7 @@ Focusing on accessibility (A11y), performance, and modern CSS techniques.
 
 ### ⚙️ JavaScript Logic
 Deep dives into the core of the language and common FE-specific challenges.
+* [Debounce and Throttle](./js-logic/debounce-throttle) - Debounce and Throttle implementation.
 
 ### 🧩 Algorithms
 Frontend-focused data structures and algorithmic problem-solving.
