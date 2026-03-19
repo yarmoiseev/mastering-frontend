@@ -1,6 +1,3 @@
-# mastering-frontend
-Frontend Engineering Lab: Polished UI parts, logic tasks, and algorithm solutions for technical interview readiness.
-
 # Frontend Engineering Lab 🧪
 
 A curated collection of polished UI components, JavaScript logic utilities, and algorithmic solutions. This repository serves as both a practice ground for interview preparation and a showcase of clean, performant frontend code.
