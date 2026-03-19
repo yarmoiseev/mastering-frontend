@@ -137,3 +137,10 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# IDE & System files (keeps your repo professional across OS)
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
